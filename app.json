@@ -1,6 +1,9 @@
 {
   "pages":[
     "pages/component/index",
+
+    "pages/component/pages/view/view",
+
     "pages/API/index",
     "pages/index/index",
     "pages/logs/logs"
