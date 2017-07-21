@@ -8,6 +8,9 @@
     "pages/component/pages/text/text",
     "pages/component/pages/icon/icon",
     "pages/component/pages/progress/progress",
+    "pages/component/pages/button/button",
+    "pages/component/pages/checkbox/checkbox",
+    "pages/component/pages/form/form",
 
     "pages/API/index",
     "pages/index/index",
