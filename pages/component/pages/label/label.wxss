@@ -1,0 +1,12 @@
+/* pages/component/pages/label/label.wxss */
+.label-1, .label-2{
+  maargin: 20rpx 0;
+}
+.label-3{
+  color: #576B95;
+  font-size: 28rpx;
+}
+.checkbox-3{
+  display: block;
+  margin: 30rpx 0;
+}
