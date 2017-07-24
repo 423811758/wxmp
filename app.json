@@ -18,6 +18,9 @@
     "pages/component/pages/slider/slider",
 
     "pages/API/index",
+    "pages/API/pages/login/login",
+    "pages/API/pages/get-user-info/get-user-info",
+    "pages/API/pages/request/request",
     "pages/index/index",
     "pages/logs/logs"
   ],
